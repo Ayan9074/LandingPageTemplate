@@ -552,6 +552,8 @@ input[type='checkbox'] {
 /*********************/
 .basic-2 {
 	padding-bottom: 5rem;
+	max-width: 1140px;
+	margin: auto;
 }
 
 .basic-2 .text-container {
